@@ -82,7 +82,7 @@ finance_system/
 ###  Clone the repository
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/kaustubhMishraS2/finance-tracking-backend.git>
 cd finance_system
 ```
 

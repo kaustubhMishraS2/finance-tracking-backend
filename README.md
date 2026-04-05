@@ -247,3 +247,12 @@ This project demonstrates a clean and structured backend system using Django RES
 ##  Developer
 
 **Kaustubh Mishra**
+
+
+
+
+
+
+<img width="1360" height="725" alt="Screenshot 2026-04-05 100513" src="https://github.com/user-attachments/assets/268cb515-8a89-448c-b6e6-c968ca5dd377" />
+
+
